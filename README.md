@@ -9,6 +9,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Agoumi&line_height=40&show_icons=true&theme=dark">
 </a>
 
+### Contact me
+[Twitter]:https://twitter.com/m_agoumi
+[LinkedIn]:https://www.linkedin.com/in/magoumi
+[Instagram]:https://www.instagram.com/agoumi_geek
+[Facebook]:https://www.facebook.com/agoumim
+
 <!--
 **M-Agoumi/M-Agoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
