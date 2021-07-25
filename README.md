@@ -9,7 +9,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Agoumi&line_height=40&show_icons=true&theme=dark">
 </a>
 
-### Contact with me
+### Connect with me
 <p>
   <a href="https://twitter.com/m_agoumi">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
