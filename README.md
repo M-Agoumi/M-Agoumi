@@ -9,7 +9,15 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Agoumi&line_height=40&show_icons=true&theme=dark">
 </a>
 
-### Contact me
+### Contact with me
+<p>
+    <a href="https://twitter.com/mountassir_007">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
+    <!-- 
+    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>-->
+    <a href="https://www.linkedin.com/in/ahmed-elmountassir/">   
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 [Twitter]:https://twitter.com/m_agoumi
 [LinkedIn]:https://www.linkedin.com/in/magoumi
 [Instagram]:https://www.instagram.com/agoumi_geek
