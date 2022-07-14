@@ -28,6 +28,8 @@
   <a href="https://www.instagram.com/agoumi_geek">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=yassineelidrissi&theme=github" alt="yassineelidrissi's github activity graph"/>
+  <a href="https://github.com/m-agoumi"><img src="https://img.shields.io/github/followers/m-agoumi?label=Follow&style=social"></a>
 </p>
 <!--
 [Twitter]:https://twitter.com/m_agoumi
